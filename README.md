@@ -1,4 +1,5 @@
 # EnigmaVision
+![poster](images/poster.png)
 
 **EnigmaVision** is an interactive simulator of the Enigma machine built with React. It allows you to experience encoding and decoding messages using a modern, visual interface.
 
@@ -58,3 +59,6 @@ Visit `http://localhost:3000` to interact with the Enigma machine.
 - JavaScript – Core logic for encryption and rotor mechanics
 
 ## 📸 Screenshots
+![screenshot 1](images/screenshot_001.JPG)
+![screenshot 2](images/screenshot_002.JPG)
+![screenshot 3](images/screenshot_003.JPG)
