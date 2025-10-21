@@ -1,12 +1,68 @@
-# React + Vite
+# EnigmaVision
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**EnigmaVision** is an interactive simulator of the Enigma machine built with React. It allows you to experience encoding and decoding messages using a modern, visual interface.
 
-Currently, two official plugins are available:
+## 🚀 Getting Started
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+To run the project locally:
 
-## Expanding the ESLint configuration
+1. **Clone the repository:**
+   
+```bash
+   git clone https://github.com/matinrezaeifard/EnigmaVision.git
+```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+2. **Navigate to the project folder:**
+
+```bash
+   cd EngimaVision
+```
+
+3. **Install dependencies:**
+
+```bash
+  npm install
+```
+
+4. **Start the development server:**
+
+```bash
+  npm start
+```
+
+5. **Open in browser:**
+Visit `http://localhost:3000` to interact with the Enigma machine.
+
+## 🧩 Features
+
+- Authentic Enigma Simulation: Encode and decode messages using a modern, interactive interface.
+- Interactive UI: Adjust rotor positions, and configure the plugboard.
+- Multiple Rotors: Supports Left, Middle, and Right rotors with different types.
+- Lampboard Visualization: Observe encrypted characters light up in real time.
+- Virtual Keyboard: Type directly into the simulator or click letters on the keyboard.
+- Plugboard Management: Connect up to 10 pairs of letters to change encryption.
+
+## 💡 How to Use
+
+1. Adjust rotors:
+   - Select rotor types (I, II, III).
+   - Set the rotor starting positions (A–Z).
+2. Configure plugboard by clicking letters to connect them in pairs.
+3. Enter plaintext in the input field.
+4. View ciphertext in real time as you type.
+5. Use the virtual keyboard for interactive typing and lampboard visualization.
+
+## 🛠️ Technology Stack
+- React – Frontend library for UI components
+- Tailwind CSS – Styling and layout
+- JavaScript – Core logic for encryption and rotor mechanics
+
+## 📸 Screenshots
+
+
+
+
+
+
+
+
