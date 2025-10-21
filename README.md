@@ -58,11 +58,3 @@ Visit `http://localhost:3000` to interact with the Enigma machine.
 - JavaScript – Core logic for encryption and rotor mechanics
 
 ## 📸 Screenshots
-
-
-
-
-
-
-
-
